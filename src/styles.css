@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 /* Custom CampusKart Styles */
 body {
   background-color: #F4F8F5 !important;
