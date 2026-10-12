@@ -1,0 +1,2 @@
+ALTER TABLE public.listings ADD CONSTRAINT listings_category_check CHECK (category IN ('books','electronics','furniture','clothing','sports','other'));
+COMMENT ON COLUMN public.listings.category IS 'Second-hand goods category: books, electronics, furniture, clothing, sports, other';

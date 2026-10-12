@@ -1,0 +1,1 @@
+ALTER TABLE public.listings DROP CONSTRAINT listings_category_check;

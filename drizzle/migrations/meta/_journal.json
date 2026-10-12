@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791629017235,
+      "tag": "0000_marketplace_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791629564815,
+      "tag": "0001_update_category_rule",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791629586651,
+      "tag": "0002_secondhand_categories",
+      "breakpoints": true
+    }
+  ]
+}
